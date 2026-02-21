@@ -1,0 +1,21 @@
+{
+  "node": {
+    "40cbe95cbc6ed7f50c4452104464ba913fbbaae454": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/ai-cake-suggestion-flow.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "getAICakeSuggestions",
+          "filename": "src/ai/flows/ai-cake-suggestion-flow.ts"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "filename": "src/ai/flows/ai-cake-suggestion-flow.ts",
+      "exportedName": "getAICakeSuggestions"
+    }
+  },
+  "edge": {},
+  "encryptionKey": "QGK5rvyJT0f0jSYCNpROB0GVKYe/C9SqAbuwfazvzF8="
+}
